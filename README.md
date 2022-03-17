@@ -4,6 +4,7 @@ Sending messages using telegram bot with python
 pip install 
 
 Add @botfather on telegram and create a bot
+
 https://sendpulse.com/knowledge-base/chatbot/create-telegram-chatbot
 
 After creating a bot, you can learn token and chatid

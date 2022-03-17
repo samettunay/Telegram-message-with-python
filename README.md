@@ -1,7 +1,7 @@
 # Telegram-message-with-python
 Sending messages using telegram bot with python
 
-pip install 
+pip install requests
 
 Add @botfather on telegram and create a bot
 
